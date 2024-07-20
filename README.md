@@ -2,11 +2,12 @@
 
 This project is a responsive landing page developed using Next.js, TailwindCSS, and the ShadCN component library. It showcases my skills in frontend development, design, and SEO optimization.
 
+![Screenshot 2024-07-20 182322](https://github.com/user-attachments/assets/0e68dbd3-635f-427d-9077-b29d5e0474c1)
 
 
 ## Demo
 
-Check out the live demo: [Live URL](https://your-live-url.com)
+Check out the live demo: [Live URL](https://filesure-assignment-u810zbf26-vimal-k-manojs-projects.vercel.app/)
 
 ## Features
 
