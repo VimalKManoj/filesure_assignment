@@ -1,4 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Responsive Landing Page
+
+This project is a responsive landing page developed using Next.js, TailwindCSS, and the ShadCN component library. It showcases my skills in frontend development, design, and SEO optimization.
+
+
+
+## Demo
+
+Check out the live demo: [Live URL](https://your-live-url.com)
+
+## Features
+
+- Responsive design for both desktop and mobile devices
+- Smooth scrolling for navigation links
+- Functional links and buttons
+- Basic form validation for the contact/subscription form
+
+## Technologies Used
+
+- [Next.js](https://nextjs.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [ShadCN Component Library](https://shadcn.dev/)
+- [Vercel](https://vercel.com/) for deployment
 
 ## Getting Started
 
